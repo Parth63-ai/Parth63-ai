@@ -36,9 +36,12 @@ Passionate about protecting systems **and** understanding how attackers think. I
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)  
 
 ---
-## 📊 GitHub Stats   
-![Kumar Partha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth63-ai&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth63-ai&layout=compact&theme=dark)  
+### 📊 GitHub Stats
+![Kumar Partha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth63-ai&show_icons=true&theme=dark)
+
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth63-ai&layout=compact&theme=dark)
+
 
 ---
 
