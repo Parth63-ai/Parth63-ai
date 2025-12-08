@@ -44,7 +44,7 @@ Passionate about protecting systems **and** understanding how attackers think. I
 ![Parth's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Parth63-ai&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 🔝 Top Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Parth63-ai&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth63-ai)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth63-ai&theme=tokyonight)
