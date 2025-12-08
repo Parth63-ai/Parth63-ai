@@ -9,7 +9,8 @@ Passionate about protecting systems **and** understanding how attackers think. I
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kumar-partha-314928380/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/kumarparth21/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:kumarpartha726@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=kumarpartha726@gmail.com)
+
 
 
 ---
