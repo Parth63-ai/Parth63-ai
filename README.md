@@ -1,8 +1,8 @@
 # 🛡️ Hi there, I'm Kumar Partha!  
 
-🌟 **Cybersecurity Enthusiast | Web3 Explorer | Open-Source Contributor**  
+🌟 **B.Tech CSE Student | Blue Team Cybersecurity | SOC & Threat Detection**  
 
-Passionate about protecting systems **and** understanding how attackers think. I explore both **red team (attacking)** and **blue team (defending)** strategies to strengthen networks, find vulnerabilities, and create robust security solutions.  
+ Building hands-on skills in SOC operations, log analysis, and network threat detection. Focused on defending systems using real tools — Wireshark, Nmap,Python automation, and SIEM. Currently working through TryHackMe SOC Level 1 and building my home lab.
 
 ---
 
@@ -56,9 +56,10 @@ Passionate about protecting systems **and** understanding how attackers think. I
 ---
 
 ## 🌱 Current Focus
-- Enhancing **red team** tactics for advanced penetration testing.  
-- Strengthening **blue team** strategies for incident response and network defense.  
-- Contributing to **open-source security tools** and **CTF challenges**.
+- Building a **Mini SOC Lab** — practicing real-time threat detection and network monitoring.
+- Developing **Python automation scripts** for log analysis and brute-force detection.
+- Working through **TryHackMe SOC Level 1** path to sharpen defensive skills.
+- Studying **MITRE ATT&CK framework** to understand attacker behavior from a defender's perspective.
 
 ---
 
