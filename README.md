@@ -1,67 +1,198 @@
-# 🛡️ Hi there, I'm Kumar Partha!  
+<h1 align="center">Hi 👋, I'm Kumar Partha</h1>
 
-🌟 **B.Tech CSE Student | Blue Team Cybersecurity | SOC & Threat Detection**  
+<h3 align="center">
+Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full Stack Developer
+</h3>
 
- Building hands-on skills in SOC operations, log analysis, and network threat detection. Focused on defending systems using real tools — Wireshark, Nmap,Python automation, and SIEM. Currently working through TryHackMe SOC Level 1 and building my home lab.
-
----
-
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kumar-partha-314928380/) 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/kumarparth21/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=kumarpartha726@gmail.com)
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Cybersecurity+Solutions;SOC+Analyst+%7C+Threat+Detection+%7C+Blue+Team;FastAPI+%7C+React+%7C+Python+%7C+Splunk;Always+Learning+Something+New!" />
+</p>
 
 ---
 
-## 💻 Programming & Tech Stack  
+## 👨‍💻 About Me
 
-### 🌐 **Frontend**  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.w3schools.com/react/)  
+🎓 B.Tech Computer Science (Cybersecurity)
 
-### ⚙ **Backend**  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://www.w3schools.com/nodejs/)  
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.w3schools.com/nodejs/nodejs_express.asp)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.w3schools.com/mongodb/)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/mysql/)  
+🛡 Passionate about Blue Team Operations, SOC Analysis, Threat Detection and Detection Engineering
 
-### 🐧 **Operating Systems**  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.w3schools.com/linux/)  
+🤖 Building AI-powered cybersecurity tools using LLMs and FastAPI
 
-### 🐍 **Other Languages**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.w3schools.com/python/)  
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)  
+💻 Full Stack Developer with experience in React, Node.js and PostgreSQL
+
+🔍 Interested in Threat Hunting, Digital Forensics and SIEM
+
+🌱 Currently learning
+
+- Splunk Detection Engineering
+- MITRE ATT&CK
+- TryHackMe SOC Level 1
+- AI for Cybersecurity
+- FastAPI
+- Cloud Security
 
 ---
 
-## 📊 GitHub Stats
-![Parth's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Parth63-ai&show_icons=true&theme=tokyonight&count_private=true)
+# 🏆 Achievements
 
-## 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth63-ai)
+🥇 **3rd Place – Cyber Arena 2026**
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth63-ai&theme=tokyonight)
+🏅 Participant – Aptos Blockchain Hackathon
 
-## 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=tokyo-night)
+🎖 Cisco Networking Academy Certifications
 
+💻 Built multiple cybersecurity and AI projects
+
+---
+# 💡 Areas of Interest
+
+- Security Operations Center (SOC)
+- Threat Detection
+- Threat Hunting
+- Malware Analysis
+- Network Security
+- Detection Engineering
+- Incident Response
+- Artificial Intelligence
+- Full Stack Development
 
 ---
 
-## 🌱 Current Focus
-- Building a **Mini SOC Lab** — practicing real-time threat detection and network monitoring.
-- Developing **Python automation scripts** for log analysis and brute-force detection.
-- Working through **TryHackMe SOC Level 1** path to sharpen defensive skills.
-- Studying **MITRE ATT&CK framework** to understand attacker behavior from a defender's perspective.
+# 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 ---
 
-✨ *Exploring every angle of cybersecurity to make the digital world safer and smarter!* ✨
+# 🌐 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+# ⚙ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+</p>
+
+---
+
+# 🗄 Databases
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+</p>
+
+---
+
+# 🛡 Cybersecurity Tools
+
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zeek-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+- Cisco Introduction to Cybersecurity
+- Networking Basics
+- Endpoint Security
+- Ethical Hacking
+- Network Defense
+- Cyber Threat Management
+- Splunk Fundamentals
+- IBM SkillsBuild Courses
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parth63-ai&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth63-ai&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Parth63-ai&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🛡 Building an AI-powered SOC Assistant
+- 🔍 Practicing Blue Team investigations
+- 📚 Learning Detection Engineering
+- ⚡ Solving DSA problems in Java
+- 🚀 Preparing for SOC Analyst internships
+
+---
+
+# 📫 Connect with Me
+
+<p>
+
+<a href="https://linkedin.com/in/your-linkedin-url">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Parth63-ai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ *"Building secure systems today for a safer digital tomorrow."*
+
+</p>
 
