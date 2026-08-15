@@ -122,9 +122,8 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 - Endpoint Security
 - Ethical Hacking
 - Network Defense
-- Cyber Threat Management
 - Splunk Fundamentals
-- IBM SkillsBuild Courses
+
 
 ---
 
