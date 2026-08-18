@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Partha</h1>
 
 <h3 align="center">
-Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full Stack Developer
+Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
@@ -12,15 +12,13 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science (Cybersecurity)
+- 🎓 B.Tech Computer Science (Cybersecurity)
+- 🛡 Passionate about Blue Team, SOC Analysis, Threat Detection and Detection Engineering
+- 🤖 Building AI-powered cybersecurity tools using LLMs and FastAPI
+- 💻 Full Stack Developer with experience in React, Node.js and PostgreSQL
+- 🔍 Interested in Threat Hunting, Digital Forensics and SIEM
 
-🛡 Passionate about Blue Team Operations, SOC Analysis, Threat Detection and Detection Engineering
-
-🤖 Building AI-powered cybersecurity tools using LLMs and FastAPI
-
-💻 Full Stack Developer with experience in React, Node.js and PostgreSQL
-
-🔍 Interested in Threat Hunting, Digital Forensics and SIEM
+---
 
 🌱 Currently learning
 
@@ -31,17 +29,6 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 - FastAPI
 - Cloud Security
 
----
-
-# 🏆 Achievements
-
-🥇 **3rd Place – Cyber Arena 2026**
-
-🏅 Participant – Aptos Blockchain Hackathon
-
-🎖 Cisco Networking Academy Certifications
-
-💻 Built multiple cybersecurity and AI projects
 
 ---
 # 💡 Areas of Interest
@@ -58,7 +45,7 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ---
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,7 +56,7 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ---
 
-# 🌐 Frontend
+## 🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -80,7 +67,7 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ---
 
-# ⚙ Backend
+## ⚙ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -90,7 +77,7 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ---
 
-# 🗄 Databases
+## 🗄 Databases
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
@@ -100,7 +87,7 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ---
 
-# 🛡 Cybersecurity Tools
+## 🛡 Cybersecurity Tools
 
 <p>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
@@ -115,61 +102,29 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 
 ---
 
-# 📜 Certifications
+## 📊 GitHub Stats
 
-- Cisco Introduction to Cybersecurity
-- Networking Basics
-- Endpoint Security
-- Ethical Hacking
-- Network Defense
-- Splunk Fundamentals
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Parth63-ai&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Parth63-ai&theme=gotham&hide_border=true" width="49%" alt="Streak"/>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parth63-ai&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth63-ai&layout=compact&theme=tokyonight"/>
-
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=gotham&include_all_commits=true&hide_border=true" width="98.6%"/>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Parth63-ai&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=tokyo-night"/>
-
-</p>
+- Building an AI-powered SOC Assistant
+- Practicing Blue Team investigations
+- Learning Detection Engineering
+- Solving DSA problems in Java
+- Preparing for SOC Analyst internships
 
 ---
 
-# 🎯 Current Focus
-
-- 🛡 Building an AI-powered SOC Assistant
-- 🔍 Practicing Blue Team investigations
-- 📚 Learning Detection Engineering
-- ⚡ Solving DSA problems in Java
-- 🚀 Preparing for SOC Analyst internships
-
----
-
-# 📫 Connect with Me
+## 📫 Connect with Me
 
 <p>
 
@@ -194,4 +149,6 @@ Cybersecurity Student • Blue Team Enthusiast • AI Security Builder • Full 
 ⭐ *"Building secure systems today for a safer digital tomorrow."*
 
 </p>
+
+
 
