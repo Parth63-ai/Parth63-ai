@@ -48,41 +48,39 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 ## 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ---
 
-## ⚙ Backend
+## ⚙️ Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
 </p>
 
 ---
 
-## 🗄 Databases
+## 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+---
+
+## 🛠️ Development & Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
 </p>
 
 ---
@@ -104,13 +102,17 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Parth63-ai&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Parth63-ai&theme=gotham&hide_border=true" width="49%" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Parth63-ai&theme=gotham&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=gotham&include_all_commits=true&hide_border=true" width="98.6%"/>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=gotham&include_all_commits=true&hide_border=true" width="98%"/>
+</p>
 
 ---
 
@@ -126,20 +128,16 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 
 ## 📫 Connect with Me
 
-<p>
+<p align="">
+  <a href="www.linkedin.com/in/kumar-partha-314928380" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
 
-<a href="https://linkedin.com/in/your-linkedin-url">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="mailto:kumarpartha726@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Parth63-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+ 
 </p>
 
 ---
