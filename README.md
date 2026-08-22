@@ -129,7 +129,7 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 ## 📫 Connect with Me
 
 <p align="">
-  <a href="www.linkedin.com/in/kumar-partha-314928380" target="_blank">
+  <a href="https://www.linkedin.com/in/kumar-partha-314928380?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
