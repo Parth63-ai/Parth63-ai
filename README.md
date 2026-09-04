@@ -110,9 +110,9 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth63-ai&theme=gotham&include_all_commits=true&hide_border=true" width="98%"/>
-</p>
+</p> -->
 
 ---
 
