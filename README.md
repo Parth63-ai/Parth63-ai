@@ -145,7 +145,6 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
 <p align="center">
 
 ⭐ *"Building secure systems today for a safer digital tomorrow."*
-
 </p>
 
 
