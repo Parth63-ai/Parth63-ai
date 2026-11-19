@@ -137,8 +137,7 @@ Cybersecurity Student • Blue Team Enthusiast • Full Stack Developer
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 
- 
-</p>
+ </p>
 
 ---
 <p align="center">
